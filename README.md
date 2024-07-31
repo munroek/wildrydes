@@ -48,10 +48,6 @@ Follow along with the step-by-step instructions in each section to build out you
 
 Feel free to fork this project, submit PRs, and suggest improvements.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
 - Inspired by the AWS Wild Rydes sample project
