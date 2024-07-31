@@ -46,7 +46,7 @@ Follow along with the step-by-step instructions in each section to build out you
 
 ## 🤝 Contributing
 
-Feel free to fork this project, submit PRs, and suggest improvements. Let's make unicorn ride-sharing a reality together!
+Feel free to fork this project, submit PRs, and suggest improvements.
 
 ## 📄 License
 
