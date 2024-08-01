@@ -8,6 +8,8 @@ In this tutorial, you'll learn how to create a ride-sharing application from scr
 
 ## Technologies Used
 
+![alt text](https://github.com/munroek/wildrydes/blob/main/WildRyde_BG.png)
+
 - AWS Amplify
 - Amazon Cognito
 - AWS Lambda
@@ -23,6 +25,10 @@ By the end of this tutorial, you'll have created a fully-functioning ride-sharin
 - Serverless backend functionality
 - API endpoints for ride requests and management
 - Database storage for ride information
+
+  ![alt text](https://github.com/munroek/wildrydes/blob/main/wildrydesite.gif)
+
+  ![alt text](https://github.com/munroek/wildrydes/blob/main/mapview.gif)
 
 ## Getting Started
 
