@@ -1,12 +1,12 @@
-# 🦄 Unicorn Rideshare App
+# Unicorn Rideshare App
 
 Welcome to the Unicorn Rideshare App tutorial! This project is inspired by the AWS Wild Rydes sample project and serves as a hands-on guide to building a fully functional ride-sharing application for unicorns.
 
-## 📚 Overview
+## Overview
 
 In this tutorial, you'll learn how to create a ride-sharing application from scratch using seven different AWS services. We'll cover the why, where, and how of each service, ensuring you understand not just the implementation but also the reasoning behind each choice.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - AWS Amplify
 - Amazon Cognito
@@ -15,7 +15,7 @@ In this tutorial, you'll learn how to create a ride-sharing application from scr
 - Amazon API Gateway
 - Amazon DynamoDB
 
-## 🎯 What You'll Build
+## What You'll Build
 
 By the end of this tutorial, you'll have created a fully-functioning ride-sharing application for unicorns. The app will include features such as:
 
@@ -24,7 +24,7 @@ By the end of this tutorial, you'll have created a fully-functioning ride-sharin
 - API endpoints for ride requests and management
 - Database storage for ride information
 
-## 🚀 Getting Started
+## Getting Started
 
 To begin your journey in building this magical unicorn ride-sharing app, make sure you have:
 
@@ -34,7 +34,7 @@ To begin your journey in building this magical unicorn ride-sharing app, make su
 
 Follow along with the step-by-step instructions in each section to build out your application using the various AWS services.
 
-## 📘 Tutorial Sections
+## Tutorial Sections
 
 1. Setting up the project with AWS Amplify
 2. Implementing user authentication with Amazon Cognito
@@ -44,11 +44,9 @@ Follow along with the step-by-step instructions in each section to build out you
 6. Storing and retrieving data with Amazon DynamoDB
 7. Putting it all together: The complete Unicorn Rideshare App
 
-## 🤝 Contributing
 
-Feel free to fork this project, submit PRs, and suggest improvements.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by the AWS Wild Rydes sample project
 - Thanks to all the mythical creatures who made this possible
